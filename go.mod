@@ -5,7 +5,7 @@ go 1.25
 toolchain go1.25.9
 
 require (
-	github.com/go-test/deep v1.1.1
+	github.com/go-test/deep v1.1.2
 	github.com/gorilla/websocket v1.5.3
 	github.com/stretchr/testify v1.11.1
 )
